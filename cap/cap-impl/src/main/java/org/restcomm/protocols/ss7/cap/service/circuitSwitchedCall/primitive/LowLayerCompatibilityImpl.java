@@ -22,7 +22,7 @@
 
 package org.restcomm.protocols.ss7.cap.service.circuitSwitchedCall.primitive;
 
-import javax.xml.bind.DatatypeConverter;
+import jakarta.xml.bind.DatatypeConverter;
 
 import javolution.xml.XMLFormat;
 import javolution.xml.stream.XMLStreamException;

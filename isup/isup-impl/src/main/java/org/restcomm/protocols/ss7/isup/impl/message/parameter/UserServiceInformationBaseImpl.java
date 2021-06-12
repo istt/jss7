@@ -22,7 +22,7 @@
 
 package org.restcomm.protocols.ss7.isup.impl.message.parameter;
 
-import javax.xml.bind.DatatypeConverter;
+import jakarta.xml.bind.DatatypeConverter;
 
 import javolution.xml.XMLFormat;
 import javolution.xml.stream.XMLStreamException;
